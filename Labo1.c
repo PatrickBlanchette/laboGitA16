@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* Hello world */
+
 #define NOMBRE 10
 #define LONGUEUR_LIGNE 46
 
